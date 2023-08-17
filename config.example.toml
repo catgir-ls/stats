@@ -1,0 +1,17 @@
+[postgres]
+database = "postgres"
+username = "postgres"
+password = "password"
+host = "127.0.0.1"
+port = 5432
+
+[redis]
+hostname = "127.0.0.1"
+port = 6379
+password = "password"
+
+[miab]
+base_url = "https://domain.tld/admin"
+username = "admin@domain.tld"
+password = "password"
+domain = "domain.tld"

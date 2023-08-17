@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@deps": "./deps.ts",
+    "@types": "./types/mod.ts",
+
+    "@database": "./database/mod.ts",
+    "@redis": "./redis/mod.ts",
+
+    "@utils": "./utils/mod.ts",
+    "@models": "./models/mod.ts"
+  }
+}
